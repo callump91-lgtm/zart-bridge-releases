@@ -3,9 +3,9 @@
     "zart-bridge@zart.app": {
       "updates": [
         {
-          "version": "1.12.1",
-          "update_link": "https://raw.githubusercontent.com/callump91-lgtm/zart-bridge-releases/main/ZART-Bridge-1.12.1.xpi",
-          "update_hash": "sha256:ce08964de80c1f643e7dd0f3cec015f2ce8810ecbd562b1d741c0aab0bdee116",
+          "version": "1.12.2",
+          "update_link": "https://raw.githubusercontent.com/callump91-lgtm/zart-bridge-releases/main/ZART-Bridge-1.12.2.xpi",
+          "update_hash": "sha256:ab5ee8b5bbe65143c344f324e45eba81ac37e6cb0f913b43f3a2dd2b59ed9bfd",
           "applications": {
             "zotero": {
               "strict_min_version": "7.0"
